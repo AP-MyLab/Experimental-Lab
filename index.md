@@ -1,4 +1,4 @@
 ---
-title: This is a website.
+title: First post.
 ---
 
